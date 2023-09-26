@@ -26,6 +26,10 @@ You can start editing this template by modifying the files in the `/src` folder.
 
 This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
 
+## Notes:
+
+- mdx files are for static non complex blog files and more
+
 ## Learn more
 
 To learn more about the technologies used in this site template, see the following resources:
